@@ -1,5 +1,6 @@
 # 忽略個人填寫的私密計畫資料夾
-my_plans/
+my_plans/*
+!my_plans/.gitkeep
 
 # 忽略系統與編輯器暫存檔
 .DS_Store
